@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  code: MyString
+  uses_left: 1
+  product: one
+  key_owner: MyString
+
+two:
+  code: MyString
+  uses_left: 1
+  product: two
+  key_owner: MyString
